@@ -1,0 +1,17 @@
+{"properties": [{
+  "name": "refreshTokenSecret",
+  "type": "java.lang.String",
+  "description": "A description for 'refreshTokenSecret'"
+}]}{"properties": [{
+  "name": "accessTokenSecret",
+  "type": "java.lang.String",
+  "description": "A description for 'accessTokenSecret'"
+}]}{"properties": [{
+  "name": "tp.project.studends.refreshTokenExpirationDays",
+  "type": "java.lang.String",
+  "description": "A description for 'tp.project.studends.refreshTokenExpirationDays'"
+}]}{"properties": [{
+  "name": "tp.project.studends.accessTokenExpirationMinutes",
+  "type": "java.lang.String",
+  "description": "A description for 'tp.project.studends.accessTokenExpirationMinutes'"
+}]}
